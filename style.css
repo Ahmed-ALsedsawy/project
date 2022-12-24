@@ -1,6 +1,9 @@
-h1{
-    color: rgb(48, 22, 90);
-}
 body{
     background-color: aquamarine;
+}
+
+h1{
+    color: rgb(48, 22, 90);
+    text-align: center;
+    margin-top: 200px;
 }
